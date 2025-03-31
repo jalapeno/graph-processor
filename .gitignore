@@ -1,0 +1,3 @@
+# Ignore the graph-processor binary
+bin/graph-processor
+

@@ -1,0 +1,4 @@
+FROM scratch
+
+COPY ./bin/graph-processor /graph-processor
+ENTRYPOINT ["/graph-processor"]
